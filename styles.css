@@ -80,3 +80,6 @@ li{
   font-family: monospace;
   font-size: 12.4px;
 }
+li[type="circle"]{
+  margin-left: 35.5%;
+}
