@@ -24,19 +24,21 @@ h1{
   text-align: left;
   background-color: white;
   border-right: #9b9b9f 3px solid;
+  top: 10%;
   
           
 }
 /* h1 js document */
 div h1{
   position: fixed;
-  padding: 12px 25px 20px 20px;
+  padding: 12px 42px 50.5px 20px;
   letter-spacing: 0;
   font-size: 28.8px;
   height: 42.3px;
   font-weight: 70;
   background-color: white;
   top: 0;
+  border-right: #9b9b9f 3px solid;
   
   
 }
