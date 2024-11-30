@@ -18,24 +18,26 @@ h1{
   width: 300px; 
   height:  623.077px;
   overflow-y:auto;
-  overflow-x: auto;
-  border-right: 1px solid #ccc;
+  overflow-x: auto ;
   display: flex;
   flex-direction: column;
   text-align: left;
   background-color: white;
+  border-right: #9b9b9f 3px solid;
   
           
 }
 /* h1 js document */
 div h1{
   position: fixed;
-  padding: 12px 27px 20px 20px;
+  padding: 12px 25px 20px 20px;
   letter-spacing: 0;
   font-size: 28.8px;
   height: 42.3px;
   font-weight: 70;
   background-color: white;
+  top: 0;
+  
   
 }
 /* span /js */
@@ -48,6 +50,8 @@ div h1{
 section{
   overflow-y:auto;
   overflow-x:hidden;
+  margin-bottom: 2%;
+  margin-top: 2%;
 }
 /* section/h1 */
 section h1{
