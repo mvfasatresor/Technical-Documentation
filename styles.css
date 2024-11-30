@@ -86,6 +86,11 @@ li{
   font-family: monospace;
   font-size: 12.4px;
 }
+/* circle */
 li[type="circle"]{
   margin-left: 35.5%;
+}
+hr{
+  margin: 0 2% 0 27.5%;
+  color: #1111bb;
 }
